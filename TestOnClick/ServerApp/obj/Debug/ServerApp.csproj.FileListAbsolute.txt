@@ -1,0 +1,16 @@
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\bin\Debug\ServerApp.exe.config
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\bin\Debug\ServerApp.exe
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\bin\Debug\ServerApp.pdb
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\bin\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\bin\Debug\ClassLibrary1.pdb
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\obj\Debug\ServerApp.exe
+E:\WP Projects\TestOnClick\ClassLibrary1\ServerApp\obj\Debug\ServerApp.pdb
+E:\WP Projects\TestOnClick\ServerApp\bin\Debug\ServerApp.exe.config
+E:\WP Projects\TestOnClick\ServerApp\obj\Debug\ServerApp.exe
+E:\WP Projects\TestOnClick\ServerApp\obj\Debug\ServerApp.pdb
+E:\WP Projects\TestOnClick\ServerApp\bin\Debug\ServerApp.exe
+E:\WP Projects\TestOnClick\ServerApp\bin\Debug\ServerApp.pdb
+E:\WP Projects\TestOnClick\ServerApp\bin\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ServerApp\bin\Debug\ClassLibrary1.pdb
+E:\WP Projects\TestOnClick\ServerApp\obj\Debug\ServerApp.csprojResolveAssemblyReference.cache

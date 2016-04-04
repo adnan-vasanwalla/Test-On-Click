@@ -1,0 +1,9 @@
+E:\WP Projects\TestOnClick\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\WP Projects\TestOnClick\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\WP Projects\TestOnClick\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\WP Projects\TestOnClick\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\WP Projects\TestOnClick\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\WP Projects\TestOnClick\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
